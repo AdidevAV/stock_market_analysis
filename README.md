@@ -9,10 +9,15 @@ Welcome to the Stock Market Analysis Dasboard! This dashboard provides comprehen
 # Features
 
 #Interactive Visualization: Explore data through interactive charts and graphs.
+
 #Filtering Options: Customize your analysis by filtering data based on various parameters.
+
 #Data Comparison: Compare stock prices based on different factors.
+
 #Predictive Analytics: Get insights into potential price gain or price drop based on historical data and predictive models.
+
 #Causal Analysis: Understand the relationship between different factors and the occurrence of dips and gains.
+
 #Export Data: Download data for further analysis or reporting purposes.
 
 # Data Sources
